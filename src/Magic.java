@@ -11,7 +11,7 @@ public class Magic {
 		int stepFive = stepFour - myNumber;
 		int stepSix = stepFive / 6;
 		
-		System.out.println(stepSix);
+		System.out.println(stepSix); 
 
 	}
 
